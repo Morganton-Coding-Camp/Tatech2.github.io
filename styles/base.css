@@ -6,6 +6,7 @@ body {
   letter-spacing: .025rem;
   background: blue;
   color: yellow;
+  font-family: 'Caveat', cursive;
 }
 
 h1,
