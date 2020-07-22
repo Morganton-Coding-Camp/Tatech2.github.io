@@ -70,6 +70,13 @@ iframe {
   padding: 1rem;
 }
 
+.banner {
+  background: url('../images/photo-of-deep-sky-object-816608 (1).jpg');
+  background-size: cover;
+  min-height: 50vh;
+  padding: 3rem;
+  text-align: center;
+
 .profile-img{
   max-height: 33vh;
   width: auto;
