@@ -8,7 +8,6 @@ body {
   color: yellow;
   font-family: 'Rock Salt', cursive;
   border: 15px double #2e004f;
-  
 }
 
 h1,
@@ -70,8 +69,6 @@ iframe {
 .col {
   flex-grow: 1;
   padding: 1rem;
-  background: #282828;
-  border: 15px double #2e004f;
 }
 
 .banner {
@@ -98,3 +95,17 @@ iframe {
   border-radius: 50%;
 }
   
+.favorite food{
+  background: #282828;
+  border: 15px double #2e004f;
+}
+
+.favorite pet{
+  background: #282828;
+  border: 15px double #2e004f;
+}
+
+favorite vehicle{
+  background: #282828;
+  border: 15px double #2e004f;
+}
