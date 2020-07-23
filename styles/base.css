@@ -95,17 +95,17 @@ iframe {
   border-radius: 50%;
 }
   
-.favorite food{
+.food{
   background: #282828;
   border: 15px double #2e004f;
 }
 
-.favorite pet{
+.pet{
   background: #282828;
   border: 15px double #2e004f;
 }
 
-.favorite vehicle{
+.vehicle{
   background: #282828;
   border: 15px double #2e004f;
 }
