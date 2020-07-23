@@ -87,6 +87,8 @@ iframe {
   padding: 3rem;
   font-size: 2.5rem;
   width: auto;
+  background: #282828;
+  border: 15px double #2e004f;
 }
   
 .profile-img{
