@@ -70,6 +70,8 @@ iframe {
 .col {
   flex-grow: 1;
   padding: 1rem;
+  background: gray;
+  border: border: 15px double #2e004f;
 }
 
 .banner {
