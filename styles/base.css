@@ -7,6 +7,8 @@ body {
   background: blue;
   color: yellow;
   font-family: 'Rock Salt', cursive;
+  border: 15px double #2e004f;
+  
 }
 
 h1,
@@ -76,6 +78,7 @@ iframe {
   min-height: 60vh;
   padding: 3rem;
   text-align: center;
+  border: 15px double #2e004f;
 }
 
 .banner-text {
@@ -84,8 +87,6 @@ iframe {
   padding: 3rem;
   font-size: 2.5rem;
   width: auto;
-  background: #282828;
-  border: 15px double #2e004f;
 }
   
 .profile-img{
