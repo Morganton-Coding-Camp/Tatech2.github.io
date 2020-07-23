@@ -70,7 +70,7 @@ iframe {
 .col {
   flex-grow: 1;
   padding: 1rem;
-  background: gray;
+  background: #282828;
   border: 15px double #2e004f;
 }
 
