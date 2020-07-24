@@ -130,7 +130,7 @@ iframe {
    text-transform: uppercase;
    text-decoration: none;
    border-radius: .25rem;
-   border: 5px double #2e004f;
+   border: 10px double #2e004f;
    transition: all .5s ease;
    display: inline-block;
    margin-top: 2rem;
