@@ -125,19 +125,19 @@ iframe {
    padding: 2rem 5rem;
    background: #282828;
    color: yellow;
-   font-size: 2rem;
+   font-size: .5rem;
    letter-spacing: 2px;
    text-transform: uppercase;
    text-decoration: none;
    border-radius: .25rem;
-   border: 10px double #2e004f;
+   border: 20px solid yellow;
    transition: all .5s ease;
    display: inline-block;
    margin-top: 2rem;
  }
 
  .btn-1:hover {
-   border: 15px solid yellow;
+   border: 15px solid #2e004f;
    border-radius: .1rem;
    letter-spacing: 4px;
  }
