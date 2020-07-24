@@ -137,7 +137,7 @@ iframe {
  }
 
  .btn-1:hover {
-   border: 15px solid #yellow;
+   border: 15px solid yellow;
    border-radius: .1rem;
    letter-spacing: 4px;
  }
