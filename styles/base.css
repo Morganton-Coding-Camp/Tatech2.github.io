@@ -98,16 +98,22 @@ iframe {
 .food{
   background: #282828;
   border: 15px double #2e004f;
+  width: 33.33%;
+  flex-grow: 0;
 }
 
 .pet{
   background: #282828;
   border: 15px double #2e004f;
+  width: 33.33%;
+  flex-grow: 0;
 }
 
 .vehicle{
   background: #282828;
   border: 15px double #2e004f;
+  width: 33.33%;
+  flex-grow: 0;
 }
 
 .btn-1 {
