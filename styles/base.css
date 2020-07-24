@@ -132,6 +132,8 @@ iframe {
    border-radius: .25rem;
    border: 2px double #2e004f;
    transition: all .5s ease;
+   display: inline-block;
+   margin-top: 2rem;
  }
 
  .btn-1:hover {
