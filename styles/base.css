@@ -130,14 +130,14 @@ iframe {
    text-transform: uppercase;
    text-decoration: none;
    border-radius: .25rem;
-   border: 30px solid yellow;
+   border: 50px solid yellow;
    transition: all .5s ease;
    display: inline-block;
    margin-top: 2rem;
  }
 
  .btn-1:hover {
-   border: 30px solid #2e004f;
+   border: 50px solid #2e004f;
    border-radius: .1rem;
    letter-spacing: 4px;
  }
